@@ -1,0 +1,64 @@
+
+h1{
+    font-size: 28px;
+    margin-top: 60px;
+    margin-left: 150px;
+    float: left;
+    color: #383845;
+}
+#github img{
+    margin-top: 200px;
+    margin-left: -370px;
+    float: left;
+}
+
+#projetogit{
+    
+    margin-top: 60px;
+    margin-left: 753px;
+    float: left; 
+    width: 551px;
+    height: 250px;
+    background-color:#aaaa91 ;
+    border-top-left-radius: 60px 60px;
+    
+}
+
+#projetogit a{
+    font-family: 'Hind Siliguri', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px ;
+    color:#383845;
+     
+
+}
+#scanner {
+    
+    width: 200px;
+    float: left;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+#leitor{
+    
+    width: 300px;
+    float: left;
+    margin-left: 130px;
+    margin-top: 40px;
+   
+}
+#java{
+    
+    width: 200px;
+    float: left;
+    margin-left: 130px;
+    margin-top:40px;
+}
+#site{
+   
+    width: 200px;
+    float: left;
+    margin-left: 130px;
+    margin-top: 40px;
+}

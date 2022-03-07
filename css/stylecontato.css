@@ -1,0 +1,62 @@
+form{
+    
+    margin-left: 170px;
+    margin-top: 41px;
+    
+
+}
+fieldset{
+    width: 940px;
+    height: 505px;
+    float: left;
+}
+
+label{
+    width: 80%;    
+    display: inline-block;    
+    font-size: 14px;
+    text-align: justify;
+    color: #5e5e5e;   
+    text-transform: uppercase;    
+}
+#caixa{
+    margin-left: 23%;
+}
+
+form h1{
+    font-size: 28px;
+    margin-left: -1px;
+    margin-top: 30px;
+}
+form label{
+    margin-top: 10px;
+}
+form input{
+    width: 495px;
+    height: 20px;
+    margin-top: 5px;
+    
+}
+
+#btnenviar{
+    width: 130px;
+    height: 30px;
+    background-color: #12122b;
+    color: #f8f2ce;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: -2px;
+    border-radius: 8px;
+    border-color: #aaaa91;
+    
+}
+
+
+
+
+
+
+
+
+ 

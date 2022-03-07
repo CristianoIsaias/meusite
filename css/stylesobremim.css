@@ -1,0 +1,37 @@
+
+
+#imagem{
+    width: 500px;
+    margin-left: 0px;
+    float: left;
+    margin-top: px;
+    
+}
+#imgsobre{
+    width: 403px;
+    
+    
+}
+#imagem img{
+    filter: opacity(75%);
+}
+
+#texto h1{
+    font-size: 28px;
+    margin-left: -60px;
+    margin-top: 130px;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-transform: capitalize;
+    text-decoration:solid;
+}
+#texto p{
+    width: 823px;
+    font-size: 24px;
+    text-align: justify;
+    color: #5e5e5e;    
+    float: left;
+    margin-top: -370px;
+    margin-left: 440px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
